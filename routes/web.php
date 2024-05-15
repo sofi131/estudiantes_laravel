@@ -24,4 +24,3 @@ Route::middleware([
 
 });
 
-
