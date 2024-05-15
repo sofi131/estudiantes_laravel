@@ -9,9 +9,9 @@
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-7">
             <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-xl sm:rounded-lg p-6">
                 <div class="bg-blue-500 text-white text-center py-4 mb-4 rounded-lg">
-                <p class="text-gray-700 dark:text-gray-300 text-lg">
-                    ¡Felicidades! Acabas de ingresar a la Academia CEICA, donde el aprendizaje no conoce límites. Aquí, te embarcarás en un viaje de conocimiento y descubrimiento. Ya seas principiante o experto, nuestros cursos te ayudarán a dominar tus habilidades y alcanzar tus metas.
-                </p>
+                    <p class="text-gray-700 dark:text-gray-300 text-lg">
+                        ¡Felicidades! Acabas de ingresar a la Academia CEICA, donde el aprendizaje no conoce límites. Aquí, te embarcarás en un viaje de conocimiento y descubrimiento. Ya seas principiante o experto, nuestros cursos te ayudarán a dominar tus habilidades y alcanzar tus metas.
+                    </p>
                 </div>
                 <div class="mt-8">
                     <h3 class="text-lg font-semibold mb-4">Nuestros cursos destacados:</h3>
@@ -25,6 +25,9 @@
                             <div class="px-6 py-4 bg-gray-100 dark:bg-gray-800">
                                 <span class="text-gray-600 dark:text-gray-400">Duración: 6 semanas</span>
                             </div>
+                            <div class="px-6 py-4">
+                            <a href="" class="bg-violet-500 dark:bg-violet-700 hover:bg-violet-600 dark:hover:bg-violet-800 text-white font-bold py-2 px-4 rounded mr-2">¡Inscríbete ahora!</a>
+                            </div>
                         </div>
                         <!-- Curso de Desarrollo de Aplicaciones Móviles -->
                         <div class="bg-white dark:bg-gray-900 overflow-hidden shadow-lg sm:rounded-lg">
@@ -34,6 +37,9 @@
                             </div>
                             <div class="px-6 py-4 bg-gray-100 dark:bg-gray-800">
                                 <span class="text-gray-600 dark:text-gray-400">Duración: 8 semanas</span>
+                            </div>
+                            <div class="px-6 py-4">
+                            <a href="" class="bg-violet-500 dark:bg-violet-700 hover:bg-violet-600 dark:hover:bg-violet-800 text-white font-bold py-2 px-4 rounded mr-2">¡Inscríbete ahora!</a>
                             </div>
                         </div>
                         <!-- Curso de Ciencia de Datos -->
@@ -45,6 +51,9 @@
                             <div class="px-6 py-4 bg-gray-100 dark:bg-gray-800">
                                 <span class="text-gray-600 dark:text-gray-400">Duración: 10 semanas</span>
                             </div>
+                            <div class="px-6 py-4">
+                            <a href="" class="bg-violet-500 dark:bg-violet-700 hover:bg-violet-600 dark:hover:bg-violet-800 text-white font-bold py-2 px-4 rounded mr-2">¡Inscríbete ahora!</a>
+                            </div>
                         </div>
                         <!-- Curso 1 -->
                         <div class="bg-white dark:bg-gray-900 overflow-hidden shadow-lg sm:rounded-lg">
@@ -54,6 +63,9 @@
                             </div>
                             <div class="px-6 py-4 bg-gray-100 dark:bg-gray-800">
                                 <span class="text-gray-600 dark:text-gray-400">Duración: 4 semanas</span>
+                            </div>
+                            <div class="px-6 py-4">
+                            <a href="" class="bg-violet-500 dark:bg-violet-700 hover:bg-violet-600 dark:hover:bg-violet-800 text-white font-bold py-2 px-4 rounded mr-2">¡Inscríbete ahora!</a>
                             </div>
                         </div>
                         <!-- Curso 2 -->
@@ -65,6 +77,9 @@
                             <div class="px-6 py-4 bg-gray-100 dark:bg-gray-800">
                                 <span class="text-gray-600 dark:text-gray-400">Duración: 12 semanas</span>
                             </div>
+                            <div class="px-6 py-4">
+                            <a href="" class="bg-violet-500 dark:bg-violet-700 hover:bg-violet-600 dark:hover:bg-violet-800 text-white font-bold py-2 px-4 rounded mr-2">¡Inscríbete ahora!</a>
+                            </div>
                         </div>
                         <!-- Curso 3 -->
                         <div class="bg-white dark:bg-gray-900 overflow-hidden shadow-lg sm:rounded-lg">
@@ -75,13 +90,11 @@
                             <div class="px-6 py-4 bg-gray-100 dark:bg-gray-800">
                                 <span class="text-gray-600 dark:text-gray-400">Duración: 8 semanas</span>
                             </div>
+                            <div class="px-6 py-4">
+                            <a href="" class="bg-violet-500 dark:bg-violet-700 hover:bg-violet-600 dark:hover:bg-violet-800 text-white font-bold py-2 px-4 rounded mr-2">¡Inscríbete ahora!</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="mt-8">
-                    <button class="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded">
-                        ¡Inscríbete ahora!
-                    </button>
                 </div>
             </div>
         </div>
