@@ -22,18 +22,18 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-image: url('https://laravel.com/assets/img/backgrounds/hero.jpg');
+            background-image: url('https://laravel.com/assets/img/welcome/background.svg');
             background-size: cover;
             background-position: center;
         }
 
         .welcome-message {
             position: absolute;
-            top: 50px;
+            top: 300px;
             text-align: center;
             width: 100%;
-            color: #ffffff;
-            font-size: 24px;
+            color: black;
+            font-size: 40px;
             font-weight: bold;
         }
 
