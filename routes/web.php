@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\StudentController;
+use App\Http\Controllers\TeacherController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -18,6 +19,9 @@ Route::middleware([
 
     //ruta para el controller Student
     Route::resource('students', StudentController::class);
+    //ruta para el controller Teacher
+    Route::resource('teachers', 'App\Http\Controllers\TeacherController');
+
 });
 
 
