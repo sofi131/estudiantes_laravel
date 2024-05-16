@@ -1,4 +1,5 @@
 ![image](https://github.com/sofi131/estudiantes_laravel/assets/91051075/a3f24b05-99a6-456a-9877-64dd7fc3661f) <br>
+![image](https://github.com/sofi131/estudiantes_laravel/assets/91051075/053c273b-dec7-4c8b-b2c0-80c6b16d71d1) <br>
 ![image](https://github.com/sofi131/estudiantes_laravel/assets/91051075/975f3d3c-522e-43d3-95a3-872c25d656bf) <br>
 ![image](https://github.com/sofi131/estudiantes_laravel/assets/91051075/6b760d45-5fae-49e7-85eb-d6dd4f2355d1) <br>
 ![image](https://github.com/sofi131/estudiantes_laravel/assets/91051075/00193a89-ba79-4fe4-9e1f-f2ea668ebd4e) <br>
