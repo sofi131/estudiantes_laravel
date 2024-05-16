@@ -8,8 +8,10 @@
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-7">
             <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-xl sm:rounded-lg p-6">
-                <div class="bg-blue-500 text-white text-center py-4 mb-4 rounded-lg">
-                    <p class="text-gray-700 dark:text-gray-300 text-lg">
+                <!-- Jumbotron Azul con texto CEICA -->
+                <div class="bg-blue-500 text-white text-center py-5 mb-5 rounded-lg">
+                <h3 class="text-6xl font-semibold mb-2">CEICA</h3>
+                    <p class="text-gray-100 text-lg">
                         ¡Felicidades! Acabas de ingresar a la Academia CEICA, donde el aprendizaje no conoce límites. Aquí, te embarcarás en un viaje de conocimiento y descubrimiento. Ya seas principiante o experto, nuestros cursos te ayudarán a dominar tus habilidades y alcanzar tus metas.
                     </p>
                 </div>
